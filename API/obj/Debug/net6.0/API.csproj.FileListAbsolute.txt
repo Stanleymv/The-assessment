@@ -1,0 +1,5 @@
+C:\SandBox\The-assessment\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\SandBox\The-assessment\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\SandBox\The-assessment\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\SandBox\The-assessment\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\SandBox\The-assessment\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
